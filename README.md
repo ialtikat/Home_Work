@@ -1,6 +1,6 @@
-!# Fonksiyonel Programlama
-Python çalışma ödevleri
-İçerik:
+# Fonksiyonel Programlama
+# Python çalışma ödevleri
+>İçerik:
 ```
 *Adam Asmaca (Hafta1/ Ödev4)
 *Parola Üreteci
